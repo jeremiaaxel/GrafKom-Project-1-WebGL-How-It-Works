@@ -1,10 +1,8 @@
-# WebGL How It Works
+# Web GL Fundamentals - Manipulation and Image Processing
 
-Kode diambil dan dimodifikasi dari [WebGL How It Works](https://webglfundamentals.org/webgl/lessons/webgl-how-it-works.html)
+Kode diambil dan dimodifikasi dari [WebGL How It Works](https://webglfundamentals.org/webgl/lessons/webgl-how-it-works.html) dan [WebGL Image Processing](https://webglfundamentals.org/webgl/lessons/webgl-image-processing.html)
 
-pranala: https://webglfundamentals.org/webgl/lessons/webgl-how-it-works.html
 
-  
 
 ## Instalasi
 
